@@ -1,5 +1,5 @@
-import EF1 from './beach-clean-up-tips-ideas-facebook-1200x630.png';
-import EF2 from './wldpsa1_000003422724_2400.jpg';
+// import EF1 from './beach-clean-up-tips-ideas-facebook-1200x630.png';
+// import EF2 from './wldpsa1_000003422724_2400.jpg';
 import EF3 from './FB_IMG_1645310678097.jpg';
 
 
