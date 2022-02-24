@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
+
 import reportWebVitals from './reportWebVitals';
 import Banner from './Components/Banner';
 import Hero2 from './Components/Hero2';
-// import Promo from './Components/Promo';
+
 import Feature from './Components/Feature';
 import CTA from './Components/CTA';
-// import Header from './Components/Header';
+
 import Previews from './Components/Previews';
 import Products from './Components/Products';
 
