@@ -9,12 +9,12 @@ import EF3 from './FB_IMG_1645310678097.jpg';
       <div className="bg-gray-100">
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div className="max-w-2xl py-16 mx-auto sm:py-24 lg:py-32 lg:max-w-none">
-            <h2 className="font-serif text-3xl font-extrabold text-gray-900">Our Support</h2>
-            <div className="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-x-6">
+            <h2 className="text-2xl font-extrabold text-gray-900">Our Global Efforts</h2>
+            <div className="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-6">
                   <div className="relative object-cover object-center w-5/6 overflow-hidden bg-white rounded-lg lg:w-full lg:h-full h-1/6 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
                  <div>
                 <img 
-                src={EF3}
+                src={EF2}
                 className="object-cover object-center lg:w-full lg:h-full"
                 layout="fill"
                 alt="alt"
@@ -23,18 +23,26 @@ import EF3 from './FB_IMG_1645310678097.jpg';
                 </div>
                 
              </div>
-                <div className="relative object-cover object-center w-5/6 overflow-hidden text-xl font-medium bg-gray-100 rounded-lg lg:w-full lg:h-full h-1/6 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
+                <div className="relative object-cover object-center w-5/6 overflow-hidden bg-white rounded-lg lg:w-full lg:h-full h-1/6 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
                 <div>
-                <h2 className="font-serif">
-                 <strong> Four Kings Fisheries Ltd- </strong>
-                  <br></br>
-                  <br></br>
-                  A privately owned fishing company, that participates in the 2 month lobster season in Cape Breton. 
-                  Kevin Gale is first mate on the company's boat.  Knowing him and his work ethic they are confident to put their name behind his project.
-                  </h2>
+                <img 
+                src={EF1}
+                className="object-cover object-center lg:w-full lg:h-full"
+                layout="fill"
+                alt="alt"
+                />
                 </div>
             </div>
-
+            <div className="relative w-5/6 overflow-hidden bg-white rounded-lg h-1/6 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
+            <div>
+                <img 
+                src={EF3}
+                className="object-cover object-center lg:w-full lg:h-full"
+                layout="fill"
+                alt="alt"
+                />
+                </div>       
+            </div>
             </div>
             
           </div>
@@ -44,4 +52,3 @@ import EF3 from './FB_IMG_1645310678097.jpg';
      
     )
   }
-

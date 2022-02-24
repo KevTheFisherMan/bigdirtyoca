@@ -1,9 +1,14 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { SpeakerphoneIcon, XIcon } from '@heroicons/react/outline'
-
+import {useState} from 'react'
 export default function Example() {
+  const [isOpen, setIsOpen] = useState(true)
+  const className = isOpen ? 'bg-sky-700' : 'bg-sky-700 hidden';
+  const handleClick = () => {
+    setIsOpen(!isOpen)
+  }
   return (
-    <div className="bg-sky-700">
+    <div className={className}>
       <div className="px-3 py-3 mx-auto max-w-8xl sm:px-6 lg:px-20">
         <div className="flex flex-wrap items-center justify-between">
           <div className="flex items-center flex-1 w-0">
@@ -26,6 +31,7 @@ export default function Example() {
           <div className="flex-shrink-0 order-2 sm:order-3 sm:ml-3">
             <button
               type="button"
+              onClick={() => handleClick()}
               className="flex p-2 -mr-1 rounded-md hover:bg-red-500 focus:outline-none focus:ring-red sm:-mr-2"
             >
               <span className="sr-only">Dismiss</span>

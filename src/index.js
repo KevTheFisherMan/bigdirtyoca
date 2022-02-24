@@ -1,14 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
 import reportWebVitals from './reportWebVitals';
 import Banner from './Components/Banner';
 import Hero2 from './Components/Hero2';
-
 import Feature from './Components/Feature';
 import CTA from './Components/CTA';
-
 import Previews from './Components/Previews';
 import Products from './Components/Products';
 

@@ -19,7 +19,7 @@ const navigation = [
 export default function Example() {
     return (
       <div className="relative overflow-hidden">
-        <div className="w-full w-screen md:mx-auto lg:mx-28 max-w-7xl">
+        <div className="w-screen md:mx-auto lg:mx-28 max-w-7xl">
           <div className="relative z-10 pt-6 pb-4 bg-white lg:bg-transparent sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
 
   
