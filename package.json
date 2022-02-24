@@ -1,7 +1,7 @@
 {
   "name": "clean-ocean",
   "version": "0.1.0",
-  "homepage": "https://paleaura01.github.io/clean-ocean-main/",
+  "homepage": "https://erra-augment.github.io/clean-ocean/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.1",
