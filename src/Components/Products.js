@@ -9,7 +9,7 @@ import IM2 from './201588236_2251508324985437_678393345566770122_n.jpg';
                 <img
  
                 src={IM2}
-                className="flex invisible md:visible opacity-10 "
+                className="flex invisible md:visible opacity-20 "
                 layout="fixed"
                 height="820"
                 width="600"

@@ -14,11 +14,11 @@ export default function Example() {
           <div  className="flex items-center justify-between">
           <h1 className="max-w-4xl mt-4 mb-10 text-xl font-medium text-white lg:text-left">
           Big Dirty Clean-Up Association NFT Project is an Ocean clean up effort in NFT form with Crypto Prizes. There will be <strong className="text-2xl">10,000</strong> unique Deckhands available.
-        Additionally we will be having crypto draws from <strong className="text-2xl">$2,500-$50,000</strong> along the way, letting one lucky deckhand walk away with <strong className="text-2xl">$50,000</strong> in Crypto.com CRO 
+        Additionally we will be having crypto draws from <strong className="text-2xl">$2,500 - $50,000</strong> along the way, letting one lucky deckhand walk away with <strong className="text-2xl">$50,000</strong> in Crypto.com  <strong className="text-2xl">CRO</strong>.
         <br></br>
         <br></br>
 
-        We pledge to remove a pound of garbage per dollar spent on Deckhands from the oceans and waterways of Cape Breton, Nova Scotia with a total goal of <strong className="text-2xl">1,000,000lb</strong>  of trash!
+        We pledge to remove a pound of garbage per dollar spent on Deckhands from the oceans and waterways of Cape Breton, Nova Scotia with a total goal of <strong className="text-2xl">1,000,000 lbs</strong>  of trash!
         Our site and twitter feed will be updated weekly until the project is complete and we send our lucky supporters the final cash prize.
         <br></br>
         <br></br>
