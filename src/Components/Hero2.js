@@ -140,7 +140,7 @@ export default function Example() {
             
           </div>
           
-          <div className="absolute flex items-center justify-center w-full w-screen lg:inset-y-0 lg:right-0 lg:w-full">
+          <div className="absolute flex items-center justify-center invisible w-screen lg:visible lg:inset-y-0 lg:right-0 lg:w-full">
         <img src={BG}
               className="object-cover h-56 sm:h-70 md:h-96 lg:w-full lg:h-full"
               />
