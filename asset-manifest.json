@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clean-ocean/static/css/main.1dbc73b5.css",
-    "main.js": "/clean-ocean/static/js/main.f9ddc1ba.js",
+    "main.js": "/clean-ocean/static/js/main.ff034cd5.js",
     "static/js/787.fc4eb7c5.chunk.js": "/clean-ocean/static/js/787.fc4eb7c5.chunk.js",
     "static/media/1123.PNG": "/clean-ocean/static/media/1123.dd1d22d91fea65d22ec0.PNG",
     "static/media/201588236___n.jpg": "/clean-ocean/static/media/201588236_2251508324985437_678393345566770122_n.3d29dfc4f312e509ebff.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo1-removebg-preview.png": "/clean-ocean/static/media/logo1-removebg-preview.67ad8bddf271b00025ed.png",
     "index.html": "/clean-ocean/index.html",
     "main.1dbc73b5.css.map": "/clean-ocean/static/css/main.1dbc73b5.css.map",
-    "main.f9ddc1ba.js.map": "/clean-ocean/static/js/main.f9ddc1ba.js.map",
+    "main.ff034cd5.js.map": "/clean-ocean/static/js/main.ff034cd5.js.map",
     "787.fc4eb7c5.chunk.js.map": "/clean-ocean/static/js/787.fc4eb7c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1dbc73b5.css",
-    "static/js/main.f9ddc1ba.js"
+    "static/js/main.ff034cd5.js"
   ]
 }
