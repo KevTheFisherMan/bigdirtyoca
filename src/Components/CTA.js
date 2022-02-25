@@ -11,7 +11,7 @@ import discordIcon from '@iconify/icons-mdi/discord';
 
 export default function Example() {
     return (
-      <div className="bg-gray-50">
+      <div id="donate" className="bg-gray-50">
         <div className="px-4 py-2 mx-auto max-w-8xl sm:px-6 lg:py-4 lg:px-12 lg:flex lg:items-center lg:justify-between">
           <h2 className="font-serif font-semibold tracking-tight text-gray-900 text-md ">
             <span className="block text-lg font-bold 1xl">Donation Addresses:</span>
@@ -66,7 +66,7 @@ export default function Example() {
 
           </div>
           <h2 className="font-serif font-medium tracking-tight text-gray-900 text-md ">
-            <span className="block text-lg font-bold 1xl">Contact:</span>
+            <span className="block text-lg font-bold 1xl">Contact Info:</span>
             
             <span className="block font-serif text-sm font-semibold ">Kevin_gale101@hotmail.com</span>
 

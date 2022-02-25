@@ -16,13 +16,17 @@ import IM2 from './201588236_2251508324985437_678393345566770122_n.jpg';
                 alt="alt"
                 />
                 </div>
-        <div className="absolute grid items-center max-w-2xl grid-cols-1 px-4 py-24 lg:ml-24 z-5 gap-y-16 gap-x-20 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-20 lg:grid-cols-2">
+        <div id="aboutme" className="absolute grid items-center max-w-2xl grid-cols-1 px-4 py-24 lg:ml-24 z-5 gap-y-16 gap-x-20 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-20 lg:grid-cols-2">
           <div>
             <h2 className="font-serif text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Kevin Gale</h2>
             <p className="mt-4 font-serif text-xl font-medium text-gray-900">I'm A Fishermen from Nova Scotia, who is concerned about the impact we are making on our Ocean's sustainability and the preservation of the wildlife that inhabit it. 
+<br></br>
+<br></br>
 I am reaching out for your support so we can make sure Canada's Ocean Playground, will stay just that. 
 I have donated and reached out to other organizations in the past trying to assist in the work and have been ignored or, there were no projects going on in my area. 
 I cannot sit idle and wait for a chance to help with other projects, so I am laying down the foundation for a new effort with the Big Dirty Ocean Clean Up Association.
+<br></br>
+<br></br>
 Our team is a bunch of like-minded individuals, passionate about the environment and motivated to make a difference.
 Together with your help we can create a community of environmentally driven individuals, that can support and assist each other in the great work so our reach will span across the globe. 
 

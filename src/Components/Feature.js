@@ -3,7 +3,7 @@ import RM from './pngwing.com (2).png';
 export default function Example() {
   return (
 
-    <div className="py-12 bg-custombg">
+    <div id="roadmap" className="py-12 bg-custombg">
       <div className="px-4 font-serif sm:px-6 lg:ml-20 lg:px-16">
         <div className="lg:text-left">
 
@@ -11,7 +11,7 @@ export default function Example() {
             <strong>Roadmap</strong>
           </p>
           <br></br>
-          <div className="flex items-center justify-between">
+          <div  className="flex items-center justify-between">
           <h1 className="max-w-4xl mt-4 mb-10 text-xl font-medium text-white lg:text-left">
           Big Dirty Clean-Up Association NFT Project is an Ocean clean up effort in NFT form with Crypto Prizes. There will be <strong className="text-2xl">10,000</strong> unique Deckhands available.
         Additionally we will be having crypto draws from <strong className="text-2xl">$2,500-$50,000</strong> along the way, letting one lucky deckhand walk away with <strong className="text-2xl">$50,000</strong> in Crypto.com CRO 

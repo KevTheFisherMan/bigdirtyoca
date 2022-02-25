@@ -10,9 +10,9 @@ import BG from './1123.PNG';
 
 const navigation = [
   { name: 'NFTs', href: 'https://crypto.com/nft/profile/kevthefisherman?tab=collectibles' },
-  { name: 'Roadmap', href: '#' },
+  { name: 'Roadmap', href: '#roadmap' },
   { name: 'Merch', href: '#' },
-  { name: 'Sponsors', href: '#' },
+  { name: 'Sponsors', href: '#support' },
 ]
 
  
@@ -117,7 +117,7 @@ export default function Example() {
                 <div className="pt-10 mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                   <div className="rounded-md shadow">
                     <a
-                      href="#"
+                      href="#donate"
                       className="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white border border-transparent rounded-md bg-sky-600 hover:bg-sky-700 md:py-4 md:text-lg md:px-10"
                     >
                       Donate!
@@ -125,7 +125,7 @@ export default function Example() {
                   </div>
                   <div className="mt-3 sm:mt-0 sm:ml-3 ">
                     <a
-                      href="#"
+                      href="#aboutme"
                       className="flex items-center justify-center w-full px-8 py-3 text-base font-medium border border-transparent rounded-md bg-cyan-100 text-sky-700 hover:bg-cyan-200 md:py-4 md:text-lg md:px-10"
                     >
                       About Me
